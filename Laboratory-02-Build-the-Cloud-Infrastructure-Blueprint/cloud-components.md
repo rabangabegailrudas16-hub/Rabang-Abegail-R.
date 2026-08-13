@@ -3,7 +3,7 @@
 ## 1. Compute Resources
 
 ### Example
-CPU Cores: 1
+CPU Cores: 2
 ### Purpose
 Compute resources handle the instructions and tasks performed by a computer. The CPU processes commands and allows programs to run.
 
@@ -15,7 +15,7 @@ The KillerCoda environment provides 1 CPU core. I used the nproc command to chec
 ## 2. Storage Resources
 
 ### Example
-Disk Capacity: 19 G
+Disk Capacity: 20 G
 ### Purpose
 Storage resources keep files, programs, system files, and other information on the computer.
 ### Importance in Cloud Computing

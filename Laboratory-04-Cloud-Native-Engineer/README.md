@@ -1,7 +1,7 @@
 # Laboratory 04 - Cloud Native Engineer
 
 ## Mission Overview
-This exercise is about applying Docker to run and control applications inside containers.
+In this exercise, it is about applying Docker to run and control applications inside containers.
 
 ## Objectives
 - Learn the differences between VMs and Containers

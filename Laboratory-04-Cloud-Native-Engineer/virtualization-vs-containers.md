@@ -9,4 +9,4 @@
 
 ## Summary
 
-Containers offer better speed and efficiency compared to virtual machines since they don’t need a full OS for each instance. They initialize quickly and require less system resources, which is ideal for modern development workflows. This makes application deployment faster and scaling more flexible. Because of these benefits, containers have become the preferred choice in many organizations.
+As an IT student, i think containers are offer better speed and efficiency compared to virtual machines since they don’t need a full OS for each instance. They initialize quickly and require less system resources, which is ideal for modern development workflows. This makes application deployment faster and scaling more flexible. Because of these benefits, containers have become the preferred choice in many organizations.
